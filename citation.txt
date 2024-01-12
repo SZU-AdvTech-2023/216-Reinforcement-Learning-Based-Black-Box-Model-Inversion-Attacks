@@ -1,0 +1,7 @@
+@inproceedings{REPO216,
+    author = "Han, Gyojin and Choi, Jaehyun and Lee, Haeil and Kim, Junmo",
+    booktitle = "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition",
+    pages = "20504--20513",
+    title = "{Reinforcement Learning-Based Black-Box Model Inversion Attacks}",
+    year = "2023"
+}
